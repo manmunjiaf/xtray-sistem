@@ -1,0 +1,5 @@
+{
+  "name": "UiTM X-Ray Management System",
+  "description": "A comprehensive X-Ray request management system for UiTM Health Centre with Role-Based Access Control, AI-powered clinical advice, and multi-language support.",
+  "requestFramePermissions": []
+}
